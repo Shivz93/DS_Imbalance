@@ -1,4 +1,6 @@
 # DS_Imbalance
+
+#### Link: https://www.kaggle.com/c/mis6341-project2
 #### This in an Imbalanced Classification Dataset which was provided to us as part of an in class Kaggle Competition.
 #### The data set for this competition is a subset of publicly available data. The variable names were masked to hide the identity of the data set. Few missing values were added to a couple of variables. 
 ### Dependent Variable
