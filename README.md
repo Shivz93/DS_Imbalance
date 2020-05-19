@@ -1,6 +1,6 @@
 # DS_Imbalance
 #### This in an Imbalanced Classification Dataset which was provided to us as part of an in class Kaggle Competition.
-#### The data set for this competition is a subset of publicly available data. The variable names were masked to hide the identity of the #### data set. Few missing values were added to a couple of variables. 
+#### The data set for this competition is a subset of publicly available data. The variable names were masked to hide the identity of the data set. Few missing values were added to a couple of variables. 
 ### Dependent Variable
 #### The dependent variable is 'Target'. It is a binary variable and takes only two values - 0 and 1. We were required to train our model to predict this variable.
 
@@ -35,7 +35,7 @@
 ##### 15.	Bagging decision tree with under sampling
 
 
-#### 3.	Data Sampling Algorithms
+#### 3.	Data Sampling Algorithms:
 ##### 16.	Logistic Regression
 ##### 17.	Decision Tree
 ##### 18.	k-Nearest Neighbors
@@ -45,7 +45,8 @@
 ##### 22.	XgBoost
 ##### 23.	Neural Network (scikit learn MLPClassifier)
 
-#### 4.	Stacking Classifiers: I tried to combine various models to create stacking models. Generally diverse models gives us better results. 
+#### 4.	Stacking Classifiers: 
+##### I tried to combine various models to create stacking models. Generally diverse models gives us better results. 
 
-##### Apart from the above algorithms, I also implemented LightGBM with RandomSearch and LDA.
+##### Apart from the above algorithms, I also implemented LightGBM with RandomSearch, LDA and Voting Classifiers.
 
